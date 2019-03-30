@@ -1,0 +1,5 @@
+所选用的数据集为：
+Wine Reviews和Trending YouTube Video Statistics
+对于Wine Reviews中的winemag-data_first150k.csv我们做了数据分析（winemae-data_first150k.ipynb中包含代码和分析报告）
+对于Trending YouTube Video Statistics我们对USvideos.csv做了数据分析（Youtube-US.ipynb中包含分析报告和代码）
+因为数据格内容基本相同，对于数据集中的其他csv文件我们只对其进行了数据处理工作。
